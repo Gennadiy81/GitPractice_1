@@ -6,6 +6,7 @@ public class HelloWorld {
         System.out.println("Adding GitHub Now");
         System.out.println("Yey stuffs are working");
         System.out.println("My name is Gennadiy");
+        System.out.println("Java is fun");
 
 
     }
