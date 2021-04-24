@@ -7,6 +7,8 @@ public class HelloWorld {
         System.out.println("Yey stuffs are working");
         System.out.println("My name is Gennadiy");
         System.out.println("Java is fun");
+        System.out.println("I'm going crazy about GitHub");
+
 
 
     }
